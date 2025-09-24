@@ -1,5 +1,5 @@
 import pandas as pd
-from ksn.features import simple_features
+from features import simple_features
 
 def main():
     # Load the subset 
