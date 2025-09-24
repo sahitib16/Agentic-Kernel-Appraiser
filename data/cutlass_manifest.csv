@@ -1,0 +1,2 @@
+op,problem_sizes,dtype,extra_args,kernels_file
+gemm,"[[1024,1024,1024],[2048,2048,2048],[4096,4096,4096]]","f32","",data/kernels_gemm.txt
