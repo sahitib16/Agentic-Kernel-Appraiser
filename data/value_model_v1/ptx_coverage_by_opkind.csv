@@ -1,0 +1,7 @@
+op_kind,ptx_code
+conv2d,0.0
+conv3d,0.0
+gemm,32.1
+other,0.0
+rank_2k,49.0
+rank_k,0.0
